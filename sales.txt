@@ -1,7 +1,8 @@
 Region Sales
 BZA     85
-SEC     90
-Viz     120
+SEC     19
+Viza    120
 Gunt    78
 Chena   87
 Madu    79
+coimba  21
